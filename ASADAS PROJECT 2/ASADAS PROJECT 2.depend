@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1731283583 source:c:\users\jchav\onedrive\desktop\c++\proyecto 2\asadas project 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+	<algorithm>
+
